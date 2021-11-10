@@ -1,0 +1,3 @@
+post of comment like
+Post of comment dislike
+count of like and dislike
